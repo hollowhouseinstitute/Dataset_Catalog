@@ -1,0 +1,7 @@
+pre_state,trigger_type,intervention_type,post_state,stability_delta,time_bucket,trajectory_id
+regulated,resource_pressure,boundary_enforcement,regulated,0.4,3,T001
+regulated,relational_threat,deescalation,unstable,-0.6,5,T001
+unstable,repair_attempt,co_regulation,regulated,0.7,8,T001
+regulated,ambiguity_increase,clarification,regulated,0.2,12,T002
+regulated,system_overload,containment,unstable,-0.5,15,T002
+unstable,recovery_protocol,stabilization,regulated,0.8,20,T002
